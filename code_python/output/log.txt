@@ -1,0 +1,19 @@
+2015-03-09 13:44:07,570 - root - INFO - python train_nnet.py ../data/train.mat ../data/dev.mat ./output/
+2015-03-09 13:44:10,997 - root - INFO - Epoch = 1, batch = 586, Classif Err = 49.979, lg(p) -1.6648
+2015-03-09 13:44:11,735 - root - INFO - TESTING Classif Err = 40.637, lg(p) -1.3207
+
+2015-03-09 13:44:14,987 - root - INFO - Epoch = 2, batch = 586, Classif Err = 38.564, lg(p) -1.2536
+2015-03-09 13:44:15,721 - root - INFO - TESTING Classif Err = 38.826, lg(p) -1.2556
+
+2015-03-09 13:44:18,930 - root - INFO - Epoch = 3, batch = 586, Classif Err = 36.241, lg(p) -1.1798
+2015-03-09 13:44:19,697 - root - INFO - TESTING Classif Err = 36.082, lg(p) -1.1775
+
+2015-03-09 13:44:22,912 - root - INFO - Epoch = 4, batch = 586, Classif Err = 35.379, lg(p) -1.1485
+2015-03-09 13:44:23,673 - root - INFO - TESTING Classif Err = 37.328, lg(p) -1.2116
+
+2015-03-09 13:44:26,905 - root - INFO - Epoch = 5, batch = 586, Classif Err = 34.821, lg(p) -1.1339
+2015-03-09 13:44:27,658 - root - INFO - TESTING Classif Err = 36.202, lg(p) -1.1582
+
+2015-03-09 13:44:30,885 - root - INFO - Epoch = 6, batch = 586, Classif Err = 34.564, lg(p) -1.1227
+2015-03-09 13:44:31,639 - root - INFO - TESTING Classif Err = 36.299, lg(p) -1.1666
+

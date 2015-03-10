@@ -1,0 +1,45 @@
+phone	examples
+aa	fAther	wAshington	
+ae	fAt	bAd	
+ah	bUt	hUsh	
+ao	lAWn	dOOr	mAll	
+aw	hOW	sOUth	brOWser	
+ax	About	cAnoe	
+ay	hIde	bIble	
+eh	gEt	fEAther	
+el	tabLE	usabLE	
+em	systEM	communisM	
+en	beatEN	
+er	fERtile	sEARch	makER	
+ey	gAte	Ate	
+ih	bIt	shIp	
+iy	bEAt	shEEp	
+ow	lOne	nOse	
+oy	tOY	OYster	
+uh	fUll	wOOd	
+uw	fOOl	fOOd	
+b	Book	aBrupt	
+ch	CHart	larCH	
+d	Done	baD	
+dh	THat	faTHer	
+f	Fat	lauGH	
+g	Good	biGGer	
+hh	Hello	loopHole	
+jh	diGit	Jack	
+k	Camera	jaCK	Kill	
+l	Late	fuLL	
+m	Man	gaMe	
+n	maN	New	
+ng	baNG	sittiNG	
+p	Pat	camPer	
+r	Reason	caR	
+s	Sit	maSS	
+sh	SHip	claSH	
+t	Tap	baT	
+th	THeatre	baTH	
+v	Various	haVe	
+w	Water	cobWeb	
+y	Yellow	Yacht	
+z	Zero	quiZ	boyS	
+zh	viSion	caSual	
+pau	short	silence	
